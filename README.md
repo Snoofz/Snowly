@@ -23,7 +23,7 @@ To use SnowlyChat, follow these steps:
 ### Usage
 
 1. Launch SnowlyChat on your device.
-2. Sign in or create an account.
+2. Create an account.
 3. Choose between joining a public room or creating/joining a private room.
 4. Start watching videos together with your friends or family members.
 5. Utilize the chat functionality to communicate with other viewers during the video-sharing experience.
