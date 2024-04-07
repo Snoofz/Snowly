@@ -39,3 +39,5 @@ For any inquiries or assistance, you can reach out to us via email at htrwhtrwhr
 ## License
 
 SnowlyChat is licensed under the [MIT License](LICENSE).
+
+![image](https://github.com/Snoofz/Snowly/assets/165219710/c009d82c-9951-4442-aaf3-4e8b1f7c48cf)
