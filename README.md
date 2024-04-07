@@ -5,6 +5,7 @@ SnowlyChat is a real-time video-sharing application that allows users to watch v
 ## Features
 
 - **Real-time Video Sharing**: Watch videos simultaneously with others in real-time.
+- **Real-time Voice Chat**: Talk with others via Voice.
 - **Private and Public Rooms**: Create private rooms for intimate gatherings or join public rooms for larger audiences.
 - **Chat Functionality**: Communicate with other viewers through built-in chat functionality.
 - **Cross-Platform Compatibility**: SnowlyChat is accessible on various devices and platforms, ensuring seamless user experience.
